@@ -1,6 +1,6 @@
 {
 	"type": "Conveyor",
-	"name": Micro conveyor",
+	"name": "Micro conveyor",
 	"description": "Powered by thousands of micro chips.",
 	"requirements": [
 		{"item": "titanium", "amount": 3},
